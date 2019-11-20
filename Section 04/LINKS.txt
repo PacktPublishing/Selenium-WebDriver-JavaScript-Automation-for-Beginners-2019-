@@ -1,0 +1,4 @@
+https://rori4.github.io/selenium-practice/#/pages/practice/simple-registration
+
+https://github.com/rori4/selenium-practice-solutions/blob/master/01.simpleRegistration/index.js
+
